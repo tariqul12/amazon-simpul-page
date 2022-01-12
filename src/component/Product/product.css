@@ -1,0 +1,7 @@
+.product{
+    display: flex;
+    border-top: 1px solid lightgray;
+    margin-bottom: 5px;
+    padding-bottom: 6px;
+    padding-top: 10px;
+}
